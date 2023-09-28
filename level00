@@ -1,0 +1,5 @@
+find / -type f -user flag00 -ls 2>/dev/null
+cat /usr/sbin/john
+caesar code <- 11 (-> 15): nottoohardhere
+su flag00, enter pass
+getflag: x24ti5gi3x0ol2eh4esiuxias
