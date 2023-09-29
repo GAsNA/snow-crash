@@ -1,0 +1,5 @@
+ls get level02.pcap
+scp -P 4242 level02@[ip]:~/level02.pcap .
+open file with wireshark
+with data we get: ft_waNDReL0L
+and get flag: kooda2puivaav1idi4f57q8iq
