@@ -17,6 +17,7 @@ The file is executed by the user flag03, even if we, as level03, do it.
 We found out we can write in ``/tmp``.
 
 > export PATH=/tmp:$PATH
+
 > ln -s /bin/getflag echo
 
 ## Step 5
