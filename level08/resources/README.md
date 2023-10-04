@@ -13,4 +13,11 @@ We saw in it the word ``token`` written in hard and juste below the sentence ``Y
 
 > ./level08 /tmp/flag
 
-By that, we created a symbolinc link to the ``token`` file and gave it to the executable. We got the flag.
+By that, we created a symbolinc link to the ``token`` file and gave it to the executable. We got the password for flag08: ``quif5eloekouj29ke0vouxean``.
+
+## Step 4
+> su flag08
+
+> getflag
+
+We got connect in sudo mode with flag08. We were able to got the flag.
